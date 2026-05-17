@@ -1,0 +1,3 @@
+﻿  OyunDenemesi.cpp
+C:\Users\YAĞIZ\source\repos\OyunDenemesi\OyunDenemesi\OyunDenemesi.cpp(345,15): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+  OyunDenemesi.vcxproj -> C:\Users\YAĞIZ\source\repos\OyunDenemesi\x64\Debug\OyunDenemesi.exe

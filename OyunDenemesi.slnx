@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="OyunDenemesi/OyunDenemesi.vcxproj" Id="d8acd69b-36e8-4224-a57d-78e5a8e36484" />
+</Solution>
